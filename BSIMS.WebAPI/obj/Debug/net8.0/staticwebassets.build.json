@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "01Zci099LY4lAoLAom1n/UI5dkM5RkH8zXh4yag+GRw=",
+  "Source": "BSIMS.WebAPI",
+  "BasePath": "_content/BSIMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

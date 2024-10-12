@@ -1,0 +1,6 @@
+@BSIMS_HostAddress = http://localhost:5131
+
+GET {{BSIMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,34 @@
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.deps.json
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.runtimeconfig.json
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Core.dll
+C:\Users\termi\source\repos\BSIM.Application\bin\Debug\net8.0\BSIMS.Core.pdb
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.csproj.AssemblyReference.cache
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.AssemblyInfoInputs.cache
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.AssemblyInfo.cs
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Ap.EA518043.Up2Date
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\refint\BSIMS.Application.dll
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.genruntimeconfig.cache
+C:\Users\termi\source\repos\BSIM.Application\obj\Debug\net8.0\ref\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.deps.json
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.runtimeconfig.json
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Core.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\bin\Debug\net8.0\BSIMS.Core.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.csproj.AssemblyReference.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.AssemblyInfoInputs.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.AssemblyInfo.cs
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Ap.EA518043.Up2Date
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\refint\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.genruntimeconfig.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\ref\BSIMS.Application.dll

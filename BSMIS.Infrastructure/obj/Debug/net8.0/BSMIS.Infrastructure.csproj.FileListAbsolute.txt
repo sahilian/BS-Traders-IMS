@@ -1,0 +1,38 @@
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.deps.json
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.runtimeconfig.json
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.pdb
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Core.dll
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Core.pdb
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.AssemblyInfo.cs
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.In.21A6B74D.Up2Date
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\refint\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.pdb
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.genruntimeconfig.cache
+C:\Users\termi\source\repos\BSMIS.Infrastructure\obj\Debug\net8.0\ref\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.deps.json
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.runtimeconfig.json
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSMIS.Infrastructure.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Core.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Application.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\bin\Debug\net8.0\BSIMS.Core.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.AssemblyInfo.cs
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.In.21A6B74D.Up2Date
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\refint\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.pdb
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.genruntimeconfig.cache
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\ref\BSMIS.Infrastructure.dll
