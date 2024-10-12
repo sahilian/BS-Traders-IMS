@@ -24,8 +24,9 @@ BSIMS (BS Traders Inventory and Sales Management System) is a comprehensive solu
 The project follows the **Clean Architecture** pattern for better separation of concerns and scalability. The solution consists of multiple layers:
 
 - **BSIMS.Core**: Contains the core business logic and domain models.
+- **BSIMS.Application**: Contains application logic, interfaces, and DTOs that mediate between the core and infrastructure layers.
 - **BSIMS.WebAPI**: Exposes APIs for inventory, supplier, and sales management.
-- **BSIMS.FE**: The Angular frontend for interacting with the system.
+- **BSIMS.UI**: The Angular frontend for interacting with the system.
 - **BSIMS.Infrastructure**: Manages data access using Entity Framework Core and PostgreSQL.
 - **BSIMS.Tests**: Unit tests for ensuring code quality.
 
