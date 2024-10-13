@@ -32,3 +32,4 @@ C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\ref
 C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.pdb
 C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.genruntimeconfig.cache
 C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\ref\BSIMS.Application.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIM.Application\obj\Debug\net8.0\BSIMS.Application.sourcelink.json

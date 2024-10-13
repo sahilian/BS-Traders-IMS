@@ -26,3 +26,4 @@ C:\Users\termi\source\repos\BS Traders IMS\BSIMS.Core\obj\Debug\net8.0\refint\BS
 C:\Users\termi\source\repos\BS Traders IMS\BSIMS.Core\obj\Debug\net8.0\BSIMS.Core.pdb
 C:\Users\termi\source\repos\BS Traders IMS\BSIMS.Core\obj\Debug\net8.0\BSIMS.Core.genruntimeconfig.cache
 C:\Users\termi\source\repos\BS Traders IMS\BSIMS.Core\obj\Debug\net8.0\ref\BSIMS.Core.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSIMS.Core\obj\Debug\net8.0\BSIMS.Core.sourcelink.json

@@ -36,3 +36,4 @@ C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0
 C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.pdb
 C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.genruntimeconfig.cache
 C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\ref\BSMIS.Infrastructure.dll
+C:\Users\termi\source\repos\BS Traders IMS\BSMIS.Infrastructure\obj\Debug\net8.0\BSMIS.Infrastructure.sourcelink.json

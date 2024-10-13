@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2LWTwpigMc=",
+  "dgSpecHash": "8SJzVz916k8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS\\BSIMS.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\BSIMS.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\termi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\termi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
