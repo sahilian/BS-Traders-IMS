@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "BSMIS.UI": {
+    "BSIMS.UI": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/bsmis.ui",
+            "outputPath": "dist/bsims.ui",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -59,10 +59,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "BSMIS.UI:build:production"
+              "buildTarget": "BSIMS.UI:build:production"
             },
             "development": {
-              "buildTarget": "BSMIS.UI:build:development"
+              "buildTarget": "BSIMS.UI:build:development"
             }
           },
           "defaultConfiguration": "development"
