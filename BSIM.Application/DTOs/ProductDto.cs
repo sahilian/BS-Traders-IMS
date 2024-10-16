@@ -17,6 +17,6 @@ namespace BSIMS.Application.DTOs
 
         public int CategoryId { get; set; }
 
-        public List<SupplierProductDto> SupplierProducts { get; set; }
+        //public List<SupplierProductDto> SupplierProducts { get; set; }
     }
 }

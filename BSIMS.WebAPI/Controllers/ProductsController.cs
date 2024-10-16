@@ -22,10 +22,11 @@ namespace BSIMS.WebAPI.Controllers
 
         // GET: api/Product
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetProducts()
         {
             var products = await _productService.GetProductsAsync();
-            return Ok(products);
+            var productDto = _mapper.Map<IEnumerable<ProductDto>>(products);
+            return Ok(productDto);
         }
 
         // GET: api/Product/5

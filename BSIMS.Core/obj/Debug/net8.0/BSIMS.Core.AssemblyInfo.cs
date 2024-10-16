@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSIMS.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0388fae70aed78cf6dc9df2abdddaa7e6076b36c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52f836a3a35ffd2a06329ea40dabff7f49dbfb3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSIMS.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSIMS.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,13 @@ namespace BSIMS.Application.MapperProfile
     {
         public MapperProfile()
         {
-            CreateMap<ProductDto, Product>()
-            .ForMember(dest => dest.SupplierProducts, opt => opt.MapFrom(src => src.SupplierProducts));
+           // CreateMap<ProductDto, Product>()
+           // .ForMember(dest => dest.SupplierProducts, opt => opt.MapFrom(src => src.SupplierProducts));
 
-            CreateMap<Product, ProductDto>()
-           .ForMember(dest => dest.SupplierProducts, opt => opt.MapFrom(src => src.SupplierProducts));
+           // CreateMap<Product, ProductDto>()
+           //.ForMember(dest => dest.SupplierProducts, opt => opt.MapFrom(src => src.SupplierProducts));
+
+            CreateMap<ProductDto, Product>().ReverseMap();
 
             CreateMap<SupplierDto, Supplier>().ReverseMap();
 

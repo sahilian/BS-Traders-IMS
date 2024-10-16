@@ -3,14 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F22286A6-27EA-462D-856F-9DCE5D6C616F}|..\\BSIMS.Core\\BSIMS.Core.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\mapperprofile\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22286A6-27EA-462D-856F-9DCE5D6C616F}|..\\BSIMS.Core\\BSIMS.Core.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22286A6-27EA-462D-856F-9DCE5D6C616F}|..\\BSIMS.Core\\BSIMS.Core.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,31 +42,11 @@
       "AbsoluteMoniker": "D:0:0:{F22286A6-27EA-462D-856F-9DCE5D6C616F}|..\\BSIMS.Core\\BSIMS.Core.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\services\\suppliertransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83604E8F-7555-4201-A362-AAA4AACF9F21}|BSIMS.WebAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\mapperprofile\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D5A0EF-7F93-4839-AC1F-89FBD6DBEC00}|..\\BSIM.Application\\BSIMS.Application.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsim.application\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F22286A6-27EA-462D-856F-9DCE5D6C616F}|..\\BSIMS.Core\\BSIMS.Core.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsims.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51DECDD2-35C6-4F24-8BE2-3E8325909CC2}|..\\BSMIS.Infrastructure\\BSMIS.Infrastructure.csproj|c:\\users\\termi\\source\\repos\\bs traders ims\\bsmis.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -59,11 +59,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 21,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "SupplierTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\Services\\SupplierTransactionService.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\Services\\SupplierTransactionService.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\Services\\ProductService.cs",
@@ -85,19 +85,7 @@
               "ViewState": "AQIAAHIAAAAAAAAAAAAmwH0AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T04:25:06.406Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\BSIMS.Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\BSIMS.Core\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:13:18.211Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -110,7 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\BSIMS.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\BSIMS.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:13:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\BSIM.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\BSIM.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:38:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -122,68 +136,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T13:13:20.173Z"
+              "WhenOpened": "2024-10-12T13:13:20.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "MapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\MapperProfile\\MapperProfile.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\MapperProfile\\MapperProfile.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\MapperProfile\\MapperProfile.cs",
               "RelativeToolTip": "..\\BSIM.Application\\MapperProfile\\MapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:39:09.244Z"
+              "WhenOpened": "2024-10-12T12:39:09.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SupplierProductDto.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\SupplierProductDto.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\DTOs\\SupplierProductDto.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\SupplierProductDto.cs",
               "RelativeToolTip": "..\\BSIM.Application\\DTOs\\SupplierProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:38:31.118Z"
+              "WhenOpened": "2024-10-12T12:38:31.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "SupplierDto.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\SupplierDto.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\DTOs\\SupplierDto.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\SupplierDto.cs",
               "RelativeToolTip": "..\\BSIM.Application\\DTOs\\SupplierDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:38:29.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "..\\BSIM.Application\\DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "..\\BSIM.Application\\DTOs\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:38:21.623Z",
+              "WhenOpened": "2024-10-12T12:38:29.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIM.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\BSIM.Application\\Services\\CategoryService.cs",
@@ -195,44 +200,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "..\\BSIMS.Core\\Interfaces\\IProductService.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "..\\BSIMS.Core\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:16:02.224Z"
+              "WhenOpened": "2024-10-12T11:16:02.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAADwvyoAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T10:46:53.758Z"
+              "WhenOpened": "2024-10-12T10:46:53.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.WebAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAwwHgAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T08:13:08.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\termi\\source\\repos\\BS Traders IMS\\BSIMS.Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\BSIMS.Core\\Interfaces\\IUnitOfWork.cs",
